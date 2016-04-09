@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JDBC的CRUD、jquery的AJAX、Json方法</title>
+<title>JDBC的CRUD、jquery的AJAX、Json方法。</title>
 <!-- <link rel="shortcut icon" href="圖示網址/favicon.ico" /> -->
 <link rel="stylesheet" href="css/bootstrap.css">
 <script src="js/jquery-1.12.0.min.js"></script>
